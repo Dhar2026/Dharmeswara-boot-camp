@@ -507,5 +507,12 @@
     "additionalData": {
         "favoriteLanguage": "Ruby"
     }
-  }
+  },
+	"name": "Dharmeswara Hibatullah Widyadana",
+	"nim":"2602098980",
+	"studyProgram": "Mobile Application and Technology",
+	"additionalData":{
+		"favoriteLanguage":"Javascript"
+	}
+	}
 ]
