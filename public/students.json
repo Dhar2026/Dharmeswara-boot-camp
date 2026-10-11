@@ -513,7 +513,9 @@
 		"nim": "2602098980",
 		"studyProgram": "Mobile and Application Technology",
 		"additionalData": {
-			"favoriteLanguage" : "JavaScript"
+			"favoriteLanguage" : "HTML,CSS,SQL,C++,Java,JavaScript,Kotlin&Python",
+			"hobby": "Reading,Writing,Coding&Programming",
+			"favoriteTechnology": "Mobile Application Development, Web Development& Ui/Ux Design"
 		}
 	}
 ]
